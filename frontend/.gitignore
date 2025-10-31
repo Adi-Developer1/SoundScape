@@ -1,0 +1,16 @@
+# Global
+node_modules/
+.env
+.DS_Store
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Logs
+*.log
