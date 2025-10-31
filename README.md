@@ -9,8 +9,7 @@ Features include mood-based playlists, location-based weather detection, light/d
 ![Favorites](./assets/FavoritePage_Dekstop.png)
 ![NavBar](./assets/NavBar_Mobile.png)
 
-🎥 **Demo Video:** [Watch Demo](./assets/WorkingDemo.mp4) 
-
+ 
 ---
 
 ## 🚀 Tech Stack
@@ -51,7 +50,7 @@ Features include mood-based playlists, location-based weather detection, light/d
 - Stored in **localStorage** — persists even after reload.
 - Play songs directly from favorites with the same player.
 
-![Favorites Page](./assets/FavoritePage.png)
+![Favorites Page](./assets/FavoritePage_Dekstop.png)
 
 ---
 
