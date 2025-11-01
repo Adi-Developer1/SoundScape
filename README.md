@@ -9,7 +9,9 @@ Features include mood-based playlists, location-based weather detection, light/d
 ![Favorites](./assets/FavoritePage_Dekstop.png)
 ![NavBar](./assets/NavBar_Mobile.png)
 
- 
+### Working Demo 
+- Watch the working demo at:
+https://drive.google.com/drive/folders/18T141rKQSjKAiYPVyCyTG39d_AvR5TOI?usp=drive_link
 ---
 
 ## 🚀 Tech Stack
